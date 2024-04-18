@@ -1,26 +1,27 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="">Tomas</a>👋 me llaman tambien por Chuchu</h1>
+<h1 align="center">🌌 Welcome to my corner of the digital universe!👋 </h1>
 </div>
 <img src="https://github.com/ChuchuTEA/ChuchuTEA/assets/112822163/a18e44db-4ed1-4e1d-82ce-da64b7a49479">
 
-## Sobre mi
+## About me 😄
  
 - 📲 Mobile Developer
 - 💻 Web Developer
-- 
+- ✨Experience Zero 😬
+- 🚀Enthusiast of Aerospace Technology 👨‍🚀
+- 🌐 My goal is to utilize technology to develop solutions that enhance the quality of life for individuals and contribute to the advancement of humanity as a whole. 
 
- <h3 align="center">Me considero un tipo sin límites cuando se trata de crear grandes cosas.</h3>
+ <h3 align="center">🗿I consider myself a person without limits when it comes to creating great things🎯</h3>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tomasae_zip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomasae_zip" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tomas-arancibia-234a6723a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomas-arancibia-234a6723a/" height="30" width="40" /></a>
-<a href="https://instagram.com/tomasae.zip" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomasae.zip" height="30" width="40" /></a>
 </p>
 
 - 📫 **tomasarancibia2008@gmail.com**
   
-<h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Technologies:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -67,7 +68,7 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## Proyects
+## Projects:
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
