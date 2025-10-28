@@ -4,11 +4,9 @@
 <img src="https://github.com/ChuchuTEA/ChuchuTEA/assets/112822163/a18e44db-4ed1-4e1d-82ce-da64b7a49479">
 
 ## About me 😄
- 
-- 📲 Mobile Developer
-- 💻 Web Developer
+
 - 📀 Backend
-- ✨Experience Zero 😬
+- ✨Experience Zero 
 - 🚀Enthusiast of Aerospace Technology 👨‍🚀
 - 🌐 My goal is to utilize technology to develop solutions that enhance the quality of life for individuals and contribute to the advancement of humanity as a whole.
   
@@ -17,8 +15,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tomasae_zip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomasae_zip" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tomas-arancibia-234a6723a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomas-arancibia-234a6723a/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/chuchutea20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomas-arancibia-234a6723a/" height="30" width="40" /></a>
 </p>
 
 - 📫 **tomasarancibia2008@gmail.com**
