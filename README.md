@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">🌌 Welcome to my corner of the digital universe!👋 </h1>
 </div>
-<img src="https://github.com/ChuchuTEA/ChuchuTEA/assets/112822163/a18e44db-4ed1-4e1d-82ce-da64b7a49479">
 
 ## About me 😄
 
