@@ -5,8 +5,6 @@
 
 ## About me 😄
 
-- 📀 Backend
-- ✨Experience Zero 
 - 🚀Enthusiast of Aerospace Technology 👨‍🚀
 - 🌐 My goal is to utilize technology to develop solutions that enhance the quality of life for individuals and contribute to the advancement of humanity as a whole.
   
